@@ -1,0 +1,25 @@
+{
+    "name": "qiniu-jquery-upload-example",
+    "version": "0.0.1",
+    "title": "jQuery File Upload to Qiniu Cloud Storage with Node.js example",
+    "description": "jQuery File Upload to Qiniu Cloud Storage with Node.js.",
+    "keywords": [
+        "qiniu",
+        "file",
+        "upload",
+        "cross-domain",
+        "cross-site",
+        "node"
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "express": ">=3.0.0",
+        "qiniu": "2.3.0",
+    },
+    "main": "server.js"
+}
